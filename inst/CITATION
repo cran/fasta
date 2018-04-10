@@ -1,0 +1,22 @@
+citHeader("To cite fasta in publications, please use:")
+
+citEntry(entry = "article",
+         title = "A Field Guide to Forward-Backward Splitting with a FASTA Implementation",
+         author = "Tom Goldstein and Christoph Studer and Richard Baraniuk",
+         year = "2014",
+         journal = "arXiv eprint",
+         volume = "abs/1411.3406",
+         url = "http://arxiv.org/abs/1411.3406",
+         ee = "http://arxiv.org/abs/1411.3406",
+         textVersion = "Tom Goldstein, Christoph Studer, and Richard Baraniuk, A Field Guide to Forward-Backward Splitting with a FASTA Implementation, arXiv:1411.3406 [cs.NA], 2014."
+)
+
+citEntry(entry = "misc",
+         title = "FASTA: A Generalized Implementation of Forward-Backward Splitting",
+         author = "Tom Goldstein and Christoph Studer and Richard Baraniuk",
+         year = "2015",
+         note = "http://arxiv.org/abs/1501.04979",
+         month = "January",
+         textVersion = "Tom Goldstein, Christoph Studer, and Richard Baraniuk, 
+FASTA: A Generalized Implementation of Forward-Backward Splitting, arXiv:1501.04979 [cs.MS], 2015."
+)
